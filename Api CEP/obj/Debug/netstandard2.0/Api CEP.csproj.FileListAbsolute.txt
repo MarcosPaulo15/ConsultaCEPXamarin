@@ -1,0 +1,15 @@
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.csproj.AssemblyReference.cache
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.AssemblyInfoInputs.cache
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.AssemblyInfo.cs
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.csproj.CoreCompileInputs.cache
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.dll
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\refint\Api CEP.dll
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\Api CEP.pdb
+D:\Programas Xamarin Forms\Api CEP\Api CEP\bin\Debug\netstandard2.0\Api CEP.deps.json
+D:\Programas Xamarin Forms\Api CEP\Api CEP\bin\Debug\netstandard2.0\Api CEP.dll
+D:\Programas Xamarin Forms\Api CEP\Api CEP\bin\Debug\netstandard2.0\ref\Api CEP.dll
+D:\Programas Xamarin Forms\Api CEP\Api CEP\bin\Debug\netstandard2.0\Api CEP.pdb
+D:\Programas Xamarin Forms\Api CEP\Api CEP\obj\Debug\netstandard2.0\XamlC.stamp
